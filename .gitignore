@@ -1,0 +1,19 @@
+# .NET
+bin/
+obj/
+*.user
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# Java
+target/
+*.class
+
+# IDE y sistema
+.vs/
+.idea/
+.DS_Store
